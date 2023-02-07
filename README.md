@@ -1,3 +1,3 @@
 # git-introduction
 
-This is a very simple git intrduction exercise.
+This is a very simple git introduction exercise.
